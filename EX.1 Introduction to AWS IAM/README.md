@@ -1,4 +1,4 @@
-<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/1214d53f-d7e3-4bf4-8c39-0e33340cb8d3" /># Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+# Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
